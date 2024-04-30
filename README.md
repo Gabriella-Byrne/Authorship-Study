@@ -1,4 +1,4 @@
-I submitted this paper for a final year statistics assignemnt at the University of Sheffield in which I was awarded a first (exact mark unknown).
+I submitted this paper for a final year statistics assignemnt (2022) at the University of Sheffield in which I was awarded a first (exact mark unknown).
 
 The following report is an investigation into how different statistical measures can be used for attribution of authorship.
 By looking at a variety of statistical measures the report will evaluate the difference in authorship between three known
